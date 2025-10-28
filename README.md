@@ -32,10 +32,15 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+<img width="496" height="280" alt="image" src="https://github.com/user-attachments/assets/cea35704-f982-4e6c-b667-b42aafdbf90b" />
+
 
 
 GRAPH: 
+![WhatsApp Image 2025-10-23 at 18 54 47_8d8d3070](https://github.com/user-attachments/assets/56b9b0c6-6832-4420-9b8e-bd2afb96cdbf)
+
 
 
 RESULT:
+Thus an instrumentation amplifier was constructed and tested using opamp IC 741.
 
